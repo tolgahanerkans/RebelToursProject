@@ -1,0 +1,15 @@
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.Application\bin\Debug\net5.0\RebelTours.Management.Application.deps.json
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.Application\bin\Debug\net5.0\RebelTours.Management.Application.runtimeconfig.json
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.Application\bin\Debug\net5.0\RebelTours.Management.Application.runtimeconfig.dev.json
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.Application\bin\Debug\net5.0\RebelTours.Management.Application.dll
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.Application\bin\Debug\net5.0\ref\RebelTours.Management.Application.dll
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.Application\bin\Debug\net5.0\RebelTours.Management.Application.pdb
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.Application\obj\Debug\net5.0\RebelTours.Management.Application.csproj.AssemblyReference.cache
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.Application\obj\Debug\net5.0\RebelTours.Management.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.Application\obj\Debug\net5.0\RebelTours.Management.Application.AssemblyInfoInputs.cache
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.Application\obj\Debug\net5.0\RebelTours.Management.Application.AssemblyInfo.cs
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.Application\obj\Debug\net5.0\RebelTours.Management.Application.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.Application\obj\Debug\net5.0\RebelTours.Management.Application.dll
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.Application\obj\Debug\net5.0\ref\RebelTours.Management.Application.dll
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.Application\obj\Debug\net5.0\RebelTours.Management.Application.pdb
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.Application\obj\Debug\net5.0\RebelTours.Management.Application.genruntimeconfig.cache

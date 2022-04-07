@@ -1,0 +1,15 @@
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Domain\bin\Debug\net5.0\RebelTours.Domain.deps.json
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Domain\bin\Debug\net5.0\RebelTours.Domain.runtimeconfig.json
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Domain\bin\Debug\net5.0\RebelTours.Domain.runtimeconfig.dev.json
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Domain\bin\Debug\net5.0\RebelTours.Domain.dll
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Domain\bin\Debug\net5.0\ref\RebelTours.Domain.dll
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Domain\bin\Debug\net5.0\RebelTours.Domain.pdb
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Domain\obj\Debug\net5.0\RebelTours.Domain.csproj.AssemblyReference.cache
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Domain\obj\Debug\net5.0\RebelTours.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Domain\obj\Debug\net5.0\RebelTours.Domain.AssemblyInfoInputs.cache
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Domain\obj\Debug\net5.0\RebelTours.Domain.AssemblyInfo.cs
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Domain\obj\Debug\net5.0\RebelTours.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Domain\obj\Debug\net5.0\RebelTours.Domain.dll
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Domain\obj\Debug\net5.0\ref\RebelTours.Domain.dll
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Domain\obj\Debug\net5.0\RebelTours.Domain.pdb
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Domain\obj\Debug\net5.0\RebelTours.Domain.genruntimeconfig.cache

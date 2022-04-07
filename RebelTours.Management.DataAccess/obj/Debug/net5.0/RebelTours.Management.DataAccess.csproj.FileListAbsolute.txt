@@ -1,0 +1,15 @@
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.DataAccess\bin\Debug\net5.0\RebelTours.Management.DataAccess.deps.json
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.DataAccess\bin\Debug\net5.0\RebelTours.Management.DataAccess.runtimeconfig.json
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.DataAccess\bin\Debug\net5.0\RebelTours.Management.DataAccess.runtimeconfig.dev.json
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.DataAccess\bin\Debug\net5.0\RebelTours.Management.DataAccess.dll
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.DataAccess\bin\Debug\net5.0\ref\RebelTours.Management.DataAccess.dll
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.DataAccess\bin\Debug\net5.0\RebelTours.Management.DataAccess.pdb
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.DataAccess\obj\Debug\net5.0\RebelTours.Management.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.DataAccess\obj\Debug\net5.0\RebelTours.Management.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.DataAccess\obj\Debug\net5.0\RebelTours.Management.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.DataAccess\obj\Debug\net5.0\RebelTours.Management.DataAccess.AssemblyInfo.cs
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.DataAccess\obj\Debug\net5.0\RebelTours.Management.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.DataAccess\obj\Debug\net5.0\RebelTours.Management.DataAccess.dll
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.DataAccess\obj\Debug\net5.0\ref\RebelTours.Management.DataAccess.dll
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.DataAccess\obj\Debug\net5.0\RebelTours.Management.DataAccess.pdb
+C:\Users\Wissen\source\repos\Rebel Tours\RebelTours.Management.DataAccess\obj\Debug\net5.0\RebelTours.Management.DataAccess.genruntimeconfig.cache
